@@ -1,0 +1,6 @@
+{
+  "name": "Coffee Mug Animation",
+  "description": "Uma página simples com animação de caneca de café que se enche lentamente ao passar o mouse, construída com HTML e CSS modern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
